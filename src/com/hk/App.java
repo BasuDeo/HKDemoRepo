@@ -7,6 +7,8 @@ public class App {
 		System.out.println("My HK App");
 		
 		System.out.println("nwe logger");
+		
+		System.out.println("3rd logger");
 	}
 
 }
